@@ -1,0 +1,9 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
+}
