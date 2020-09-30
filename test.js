@@ -7,7 +7,7 @@ var capabilities = {
  'name': 'BStack-[NodeJS] Sample Test', // test name
  'build': 'BStack Build Number 1', // CI/CD job or build name
  'browserstack.user' : 'valerygorodniche1',
- 'browserstack.key' : 'Fu9WXxabk1rKL4pWVsVx'
+ 'browserstack.key' : 'XXXXX'
 }
 var driver = new webdriver.Builder().usingServer('https://hub-cloud.browserstack.com/wd/hub').
 withCapabilities(capabilities).build();
